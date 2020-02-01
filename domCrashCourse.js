@@ -131,28 +131,86 @@ const itemList = document.querySelector('#items');
 // itemList.previousElementSibling.style.color = 'green';
 
 // createElement
-const newDiv = document.createElement('div');
+// const newDiv = document.createElement('div');
 
 // Add class
-newDiv.className = 'Hello';
+// newDiv.className = 'Hello';
 
 // Add ID
-newDiv.id = 'hello1';
+// newDiv.id = 'hello1';
 
 // Add attribute
-newDiv.setAttribute('title', 'Hello Div');
+// newDiv.setAttribute('title', 'Hello Div');
 
 // Create Text Node
-const newDivText = document.createTextNode('Hello World!');
+// const newDivText = document.createTextNode('Hello World!');
 
 // Add text to div
-newDiv.appendChild(newDivText);
+// newDiv.appendChild(newDivText);
 
-const container = document.querySelector('header .container');
-const h1 = document.querySelector('header h1');
+// const container = document.querySelector('header .container');
+// const h1 = document.querySelector('header h1');
 
-console.log(newDiv);
+// console.log(newDiv);
 
-newDiv.style.fontSize = '30px';
+// newDiv.style.fontSize = '30px';
 
-container.insertBefore(newDiv, h1);
+// container.insertBefore(newDiv, h1);
+
+// EVENTS
+
+// const btn = document
+//   .getElementById('button')
+//   .addEventListener('click', buttonClick);
+
+// function buttonClick(event) {
+//   console.log('Hello World!');
+//   document.getElementById('header-title').textContent = 'Changed';
+//   document.querySelector('#main').style.backgroundColor = '#f4f4f4';
+//   console.log(event);
+//   console.log(event.target);
+//   console.log(event.target.id);
+//   console.log(event.target.className);
+//   console.log(event.target.classList);
+//   const output = document.getElementById('output');
+//   output.innerHTML = '<h3>' + event.target.id + '</h3>';
+//   console.log(event.type);
+//   console.log(event.clientX); // position from the window
+//   console.log(event.clientY); // position from the window
+//   console.log(event.offsetX);
+//   console.log(event.offsetY);
+//   console.log(event.altKey);
+//   console.log(event.ctrlKey);
+//   console.log(event.shiftKey);
+// }
+
+const btn = document.getElementById('button');
+
+// btn.addEventListener('click', runEvent);
+// btn.addEventListener('dblclick', runEvent);
+// btn.addEventListener('mousedown', runEvent);
+// btn.addEventListener('mouseup', runEvent);
+
+const box = document.getElementById('box');
+
+// box.addEventListener('mouseenter', runEvent);
+// box.addEventListener('mouseleave', runEvent);
+
+// box.addEventListener('mouseover', runEvent);
+// box.addEventListener('mouseout', runEvent);
+
+box.addEventListener('mousemove', runEvent);
+
+function runEvent(event) {
+  console.log('EVENT TYPE: ' + event.type);
+
+  output.innerHTML =
+    '<h3>MouseX: ' +
+    event.offsetX +
+    '</h3><h3>MouseY: ' +
+    event.offsetY +
+    '</h3>';
+
+  box.style.backgroundColor =
+    'rgb(' + event.offsetX + ',' + event.offsetY + ', 40)';
+}

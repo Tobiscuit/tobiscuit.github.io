@@ -199,18 +199,39 @@ const box = document.getElementById('box');
 // box.addEventListener('mouseover', runEvent);
 // box.addEventListener('mouseout', runEvent);
 
-box.addEventListener('mousemove', runEvent);
+// box.addEventListener('mousemove', runEvent);
+
+const itemInput = document.querySelector('input[type="text"]');
+const form = document.querySelector('form');
+
+// itemInput.addEventListener('keydown', runEvent);
+// itemInput.addEventListener('keyup', runEvent);
+// itemInput.addEventListener('keypress', runEvent);
+
+// itemInput.addEventListener('focus', runEvent);
+// itemInput.addEventListener('blur', runEvent);
+
+// itemInput.addEventListener('cut', runEvent);
+// itemInput.addEventListener('paste', runEvent);
+
+// itemInput.addEventListener('input', runEvent);
+
 
 function runEvent(event) {
   console.log('EVENT TYPE: ' + event.type);
+  //   document.body.style.display = 'none';
 
-  output.innerHTML =
-    '<h3>MouseX: ' +
-    event.offsetX +
-    '</h3><h3>MouseY: ' +
-    event.offsetY +
-    '</h3>';
+  //   console.log(event.target.value);
+  //   document.getElementById('output').innerHTML =
+  //     '<h3>' + event.target.value + '</h3>';
 
-  box.style.backgroundColor =
-    'rgb(' + event.offsetX + ',' + event.offsetY + ', 40)';
+  //   output.innerHTML =
+  //     '<h3>MouseX: ' +
+  //     event.offsetX +
+  //     '</h3><h3>MouseY: ' +
+  //     event.offsetY +
+  //     '</h3>';
+
+  //   box.style.backgroundColor =
+  //     'rgb(' + event.offsetX + ',' + event.offsetY + ', 40)';
 }

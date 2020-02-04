@@ -203,6 +203,7 @@ const box = document.getElementById('box');
 
 const itemInput = document.querySelector('input[type="text"]');
 const form = document.querySelector('form');
+const select = document.querySelector('select');
 
 // itemInput.addEventListener('keydown', runEvent);
 // itemInput.addEventListener('keyup', runEvent);
@@ -216,22 +217,29 @@ const form = document.querySelector('form');
 
 // itemInput.addEventListener('input', runEvent);
 
+// select.addEventListener('change', runEvent);
+// select.addEventListener('input', runEvent);
+
+form.addEventListener('submit', runEvent);
 
 function runEvent(event) {
+  event.preventDefault();
   console.log('EVENT TYPE: ' + event.type);
+
+  // console.log(event.target.value);
   //   document.body.style.display = 'none';
 
   //   console.log(event.target.value);
-  //   document.getElementById('output').innerHTML =
-  //     '<h3>' + event.target.value + '</h3>';
+  // document.getElementById('output').innerHTML =
+  //   '<h3>' + event.target.value + '</h3>';
 
-  //   output.innerHTML =
-  //     '<h3>MouseX: ' +
-  //     event.offsetX +
-  //     '</h3><h3>MouseY: ' +
-  //     event.offsetY +
-  //     '</h3>';
+  // output.innerHTML =
+  //   '<h3>MouseX: ' +
+  //   event.offsetX +
+  //   '</h3><h3>MouseY: ' +
+  //   event.offsetY +
+  //   '</h3>';
 
-  //   box.style.backgroundColor =
-  //     'rgb(' + event.offsetX + ',' + event.offsetY + ', 40)';
+  // box.style.backgroundColor =
+  //   'rgb(' + event.offsetX + ',' + event.offsetY + ', 40)';
 }

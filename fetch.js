@@ -2,31 +2,21 @@ const getBtn = document.getElementById('get-btn');
 const postBtn = document.getElementById('post-btn');
 
 const sendHttpRequest = (method, url, data) => {
-  const promise = new Promise((resolve, reject) => {
-    const xhr = new XMLHttpRequest();
-    xhr.open(method, url);
-
-    xhr.responseType = 'json';
-
-    if (data) {
-      xhr.setRequestHeader('Content-Type', 'application/json');
+  return fetch(url, {
+    method: method,
+    body: JSON.stringify(data),
+    headers: data ? { 'Content-Type': 'application/json' } : {}
+  }).then(response => {
+    if (response.status >= 400) {
+      // !response.ok (error)
+      return response.json().then(errResData => {
+        const error = new Error('Something went wrong!');
+        error.data = errResData;
+        throw error;
+      });
     }
-
-    xhr.onload = () => {
-      if (xhr.status >= 400) {
-        reject(xhr.response);
-      } else {
-        resolve(xhr.response);
-      }
-    };
-
-    xhr.onerror = () => {
-      reject('Something went wrong!');
-    };
-
-    xhr.send(JSON.stringify(data));
+    return response.json();
   });
-  return promise;
 };
 
 const getData = () => {
@@ -37,14 +27,14 @@ const getData = () => {
 
 const sendData = () => {
   sendHttpRequest('POST', 'https://reqres.in/api/register', {
-    email: 'eve.holt@reqres.in',
-    password: 'pistol'
+    email: 'eve.holt@reqres.in'
+    // password: 'pistol'
   })
     .then(responseData => {
       console.log(responseData);
     })
     .catch(err => {
-      console.log(err);
+      console.log(err, err.data);
     });
 };
 

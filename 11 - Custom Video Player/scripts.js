@@ -44,6 +44,7 @@ function handleProgress() {
   // Pausing here for today 3/31/2020
   // Noticed Wes Bos has autocompletion for progressBar.styles./w/
   // Researching extensions for CSS / JS to give me the same functionality
+  // No luck yet, perhaps it's related to configuration
 }
 
 // Hook up the event listerners

@@ -1,3 +1,22 @@
+## Coding Journey
+Hello, world! As a former Computer Information Systems student, I realized my interest belonged to Computer Science. During my time at college, I hadn't developed the social skills to succeed and I now understand how to improve by communicating with my peers. Setting myself up for success is imperative, so this GitHub repo will serve as progress I can look back on to measure my progress, as well as demonstrate proficiency to prospective employers.
+Excited and looking forward to providing information solutions to companies through web development!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Tobiscuit/tobiscuit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

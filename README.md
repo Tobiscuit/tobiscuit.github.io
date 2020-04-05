@@ -2,8 +2,10 @@
 Hello, world! As a former Computer Information Systems student, I realized my interest belonged to Computer Science. During my time at college, I hadn't developed the social skills to succeed and I now understand how to improve by communicating with my peers. Setting myself up for success is imperative, so this GitHub repo will serve as progress I can look back on to measure my progress, as well as demonstrate proficiency to prospective employers.
 Excited and looking forward to providing information solutions to companies through web development!
 
+### Log
 
-
+04/04/2020  
+LearnSQL.com is giving access to its courses free up until 4/20. To become a well rounded front-end developer, I want to cover as much backend as possible when given opportunities like these. Progress on their SQL Basics course is great, should be finished by tomorrow.
 
 
 

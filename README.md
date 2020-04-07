@@ -4,13 +4,16 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
-**04/04/2020**  
-LearnSQL.com is giving access to its courses free up until 4/20. To become a well rounded front-end developer, I want to cover as much backend as possible when given opportunities like these. Progress on their SQL Basics course is great, should be finished by tomorrow.
+**04/06/2020**
+Currently stuck on a freeCodeCamp algorithm problem, so I began courses on Frontend Masters. I'm pleasantly surprised at the quality of FE courses. The GitHub student pack has given me access to quality education. I've been thinking: are algorithms and data structures essential for a _front-end_ developer? Doesn't hurt to learn them I suppose...
+
 
 **04/05/2020**
 Continued freeCodeCamp's JavaScript Data Structures and Algorithms curriculum, continued taking notes on Flavio Cope's React Handbook. Self-reflection: is it a good idea to be learning React, Node, and JavaScript all at the same time? Probably not, but to be fair I've finished a 52.5 hour course on JavaScript and read several books already. Trying to perfect my craft, is all.
 
 
+**04/04/2020**  
+LearnSQL.com is giving access to its courses free up until 4/20. To become a well rounded front-end developer, I want to cover as much backend as possible when given opportunities like these. Progress on their SQL Basics course is great, should be finished by tomorrow.
 
 
 

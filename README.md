@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/07/2020**
+Went over the freeCodeCamp algorithm problems I've done so far, and watched:  
+* HTML, CSS, and JavaScript: The Big Picture by Barry Luijbregts
+* Python: The Big Picture by Jason Olson
+
 **04/06/2020**
 Currently stuck on a freeCodeCamp algorithm problem, so I began courses on Frontend Masters. I'm pleasantly surprised at the quality of FE courses. The GitHub student pack has given me access to quality education. I've been thinking: are algorithms and data structures essential for a _front-end_ developer? Doesn't hurt to learn them I suppose...
 

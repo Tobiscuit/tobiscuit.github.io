@@ -4,6 +4,14 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/08/2020**
+Took a dive into the intricacies of the JavaScript engine, explored:
+* Callstack
+* Event Loop
+* Microtask Queue
+* Global Memory (the Heap)
+* Synchronous vs Asynchronous
+
 **04/07/2020**
 Went over the freeCodeCamp algorithm problems I've done so far, and watched:  
 * HTML, CSS, and JavaScript: The Big Picture by Barry Luijbregts

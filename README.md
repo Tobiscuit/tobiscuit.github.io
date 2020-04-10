@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/09/2020**
+Continuing the road to becoming a well rounded front-end developer. Solved a couple of freeCodeCamp algorithm problems and continued my SQL Basics course.
+
 **04/08/2020**
 Took a dive into the intricacies of the JavaScript engine, explored:
 * Callstack

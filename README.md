@@ -4,7 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
-**04/09/2020**
+**04/10/2020**
+Struggled throughout the Basic Algorithms section of freeCodeCamp, so I'm going through and making sure I understand them. I don't yet feel ready for Intermediate Algorithms and I want to be as prepared as possible. Watched and coded along to Objects, Classes, and Prototypes on Pluralsight.
+
+**04/09/2020**  
 Continuing the road to becoming a well rounded front-end developer. Solved a couple of freeCodeCamp algorithm problems and continued my SQL Basics course.
 
 **04/08/2020**

@@ -4,7 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
-**04/10/2020**
+**04/11/2020**  
+Continued Objects, Classes, and Prototypes by Jim Cooper on Pluralsight. This is an advanced JavaScript topic and there's many times I pause and take notes, so the course length is deceiving. Understanding the material is much better than _finishing_ the course.
+
+**04/10/2020**  
 Struggled throughout the Basic Algorithms section of freeCodeCamp, so I'm going through and making sure I understand them. I don't yet feel ready for Intermediate Algorithms and I want to be as prepared as possible. Watched and coded along to Objects, Classes, and Prototypes on Pluralsight.
 
 **04/09/2020**  

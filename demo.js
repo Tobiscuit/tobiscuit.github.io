@@ -636,7 +636,7 @@
   // Another useful thing to be aware of with Dates, is that we can subtract two dates in order to learn the amount of time between them.
   // So if we create two dates like so:
   let date1 = new Date(2050, 3, 25, 13, 1, 30, 50);
-  let date2 = new Date(2050, 3, 25, 13, 1, 30, 55);
+  let date2 = new Date(2050, 3, 25, 13, 1, 30, 55); 
 
   //
   //

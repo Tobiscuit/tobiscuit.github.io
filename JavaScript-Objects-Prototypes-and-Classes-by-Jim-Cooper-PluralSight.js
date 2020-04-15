@@ -585,12 +585,12 @@
   // The MDN docs is a great resource for discovering all of the available functions and how they work.
   // All of the properties and functions on the Math object are static. That means we don't need to create a new Math object before using it, we just use it directly. So let's access one of the Math object's contants:
 
-  display(Math.PI);
+  // display(Math.PI);
   // We can also directly call functions on Math:
-  display(Math.max(3, 42, 63));
+  // display(Math.max(3, 42, 63));
   // Math.max() takes in unlimited numerical arguments and returns the largest of all of them
   //Math.round() will round a number to the largest whole integer
-  display(Math.round(62.6333));
+  // display(Math.round(62.6333));
   //
   //
   //
@@ -606,37 +606,73 @@
   // display(date.toString())
   // This seems really useful but there's a problem with this constructor in that different browsers may handle that string inconsistently.
   // So by far, this isn't the best constructor, but one that takes in each date and time part as an integer like so:
-  let date = new Date(2050, 3, 25, 13, 1, 30, 50); // Yields April instead of March because the months (and only the months) are zero based.
+  // let date = new Date(2050, 3, 25, 13, 1, 30, 50); // Yields April instead of March because the months (and only the months) are zero based.
   // display(date.toString())
   // So these parameters in order are: year, month, day, hour, minute, second, and milisecond.
   // The date object above clearly says 3, which should be March, but yields April. The second parameter (for the month), for some unholy reason, the month parameter is zero based, and everything else is one based. So 0 is January, 1 is February, and 2 is March.
   // This is the most useful and accurate way to create dates in JavaScript, with the constructor shown above using year, month, day, hour, minute, second, and milisecond.
   // Now, let's take a look at these following functions. Each of these has a corresponding setter also, so I could call:
-  date.setMonth(5);
-  display(date.toString());
+  // date.setMonth(5);
+  // display(date.toString());
   // It's important to note that these getters return values that correspond to the time zone of the computer they are running on, but there are also UTC versions of these.
 
-  display(date.getFullYear());
-  display(date.getMonth());
-  display(date.getDate());
-  display(date.getHours());
-  display(date.getMinutes());
-  display(date.getSeconds());
-  display(date.getMilliseconds);
+  // display(date.getFullYear());
+  // display(date.getMonth());
+  // display(date.getDate());
+  // display(date.getHours());
+  // display(date.getMinutes());
+  // display(date.getSeconds());
+  // display(date.getMilliseconds);
   // The UTC versions of these are below:
-  display(date.getUTCFullYear());
-  display(date.getUTCMonth());
-  display(date.getUTCDate());
-  display(date.getUTCHours());
-  display(date.getUTCMinutes());
-  display(date.getUTCSeconds());
-  display(date.geUTCMilliseconds());
+  // display(date.getUTCFullYear());
+  // display(date.getUTCMonth());
+  // display(date.getUTCDate());
+  // display(date.getUTCHours());
+  // display(date.getUTCMinutes());
+  // display(date.getUTCSeconds());
+  // display(date.geUTCMilliseconds());
   //
   //
   // Another useful thing to be aware of with Dates, is that we can subtract two dates in order to learn the amount of time between them.
   // So if we create two dates like so:
-  let date1 = new Date(2050, 3, 25, 13, 1, 30, 50);
-  let date2 = new Date(2050, 3, 25, 13, 1, 30, 55); 
+  // let date1 = new Date(2050, 3, 25, 13, 1, 30, 50);
+  // let date2 = new Date(2051, 3, 25, 13, 1, 30, 55);
+
+  // display(date2-date1);
+
+  // function checkPasswordComplexity(password) {
+  //   // let regex = new RegExp('^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d).{8,}$', 'gi');
+  //   let regex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$/gi
+  //   return regex.test(password);
+  // }
+
+  // display(checkPasswordComplexity('Stronger1'));
+
+  function findAlerts(logData) {
+    let regex = /ERROR(.*?):(.*?);/g;
+    // displayRegexArray(regex.exec(logData)); // displayRegexArray is Cooper's define function
+    // display('===================================');
+    // displayRegexArray(regex.exec(logData));
+    let result = regex.exec(logData);
+
+    while (result !== null) {
+      display(result[1]);
+      display(result[2]);
+      display('===================================');
+      result = regex.exec(logData);
+    }
+  }
+
+  let logData =
+    'INFO:Ok;ERROR(HIGH):Something broke;ERROR(LOW):Something fishy;ERROR(HIGH):So many errors;';
+
+  findAlerts(logData);
+
+  // We looked at the RegEx object: new Regex(expression, flags); let regex = /expression/flags; let result = regex.test(stringToSearch); let result = regex.exec(stringToSearch);
+  // The regex text function returns a boolean whether the string contains text that matches the regular expression.
+  // We also looked at the exec command to search a string. REMEMBER: The regex object is stateful, meaning we can call exec multiple times and keep finding multiple matches in the string. 
+  // We learned how to modify object descriptors using Object.defineProperty(), and how to create property getters and setters.
+  // We took a deep look into what prototypes are and how they affect inheritance behind the scenes. We also learned how to create inheritance chains with constructor functions and classes.
 
   //
   //

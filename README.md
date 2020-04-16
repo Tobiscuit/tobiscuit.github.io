@@ -4,6 +4,20 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/15/2020**  
+Finished freeCodeCamp's  Basic Algorithm Scripting  
+Reviewed JavaScript notes  
+Starting React - The Complete Guide in a few days  
+Thoughts:  
+Reading a book on a subject (React), then taking a video course seems to be my preference? 
+
+
+**04/14/2020**  
+
+**04/13/2020**  
+
+**04/12/2020**  
+
 **04/11/2020**  
 Continued Objects, Classes, and Prototypes by Jim Cooper on Pluralsight. This is an advanced JavaScript topic and there's many times I pause and take notes, so the course length is deceiving. Understanding the material is much better than _finishing_ the course.
 

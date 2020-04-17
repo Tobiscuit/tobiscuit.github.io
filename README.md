@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/16/2020**  
+Course on Pluralsight by Paul D. Sheriff
+
 **04/15/2020**  
 Finished freeCodeCamp's  Basic Algorithm Scripting  
 Reviewed JavaScript notes  

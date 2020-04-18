@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/17/2020**  
+D86:
+✅fCC's JS Algs & DS's: Object Oriented Programming
+⌛️Pluralsight: JavaScript Syntax and Operators
+⌛️fCC's JS Algs & DS's: Functional Programming
+
 **04/16/2020**  
 Course on Pluralsight by Paul D. Sheriff
 

@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/18/2020**  
+fCC's JS Algs & DS's: Functional Programming (75%)
+
 **04/17/2020**  
 D86:
 ✅fCC's JS Algs & DS's: Object Oriented Programming

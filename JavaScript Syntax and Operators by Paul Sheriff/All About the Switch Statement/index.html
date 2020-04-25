@@ -1,0 +1,159 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Switch Statement Samples</title>
+  </head>
+  <body>
+    <button onclick="simpleSwitch();">Simple Switch Sample</button>
+    <script>
+      function simpleSwitch() {
+        let productId = 3;
+
+        switch (productId) {
+          case 1:
+            console.log('Product 1');
+            break;
+          case 2:
+            console.log('Product 2');
+            break;
+          default:
+            console.log('Unknown Product');
+            break;
+        }
+      }
+    </script>
+  </body>
+</html>
+
+ -->
+<!-- -->
+<!-- ==================================================================================== -->
+<!-- -->
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Switch Statement Samples</title>
+  </head>
+  <body>
+    <button onclick="multipleCase();">Multiple Case Statements</button>
+    <button onclick="forgetABreak();">Forget a Break</button>
+
+    <script>
+      function multipleCase() {
+        let color = 'Red';
+
+        switch (color) {
+          case 'Red':
+          case 'Pink':
+            console.log('The color is red');
+            break;
+          case 'Blue':
+          case 'Light Blue':
+          case 'Dark Blue':
+            console.log('The color is blue');
+        }
+      }
+
+      function forgetABreak() {
+        let productId = 2;
+
+        switch (productId) {
+          case 1:
+            console.log('HL Road Frame - Black, 58');
+            break;
+          case 2:
+            console.log('Sport-100 Helmet, Red');
+            // We have forgotten the break statement ❗
+          case 3:
+            console.log('Mountain Bike Socks, M');
+            break;
+          default:
+            console.log('Unknown Product');
+            break;
+        }
+      }
+    </script>
+  </body>
+</html> 
+-->
+<!-- ===================================================================================== -->
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Switch Statement Samples</title>
+  </head>
+  <body>
+    <button onclick="strictComparison();">Strict Comparison</button>
+    <script>
+      function strictComparison() {
+        let productId = '2'; // ❗ Notice this isn't a number, it's a string
+
+        switch (productId) {
+          case 1:
+            console.log('HL Road Frame - Black, 58');
+            break;
+          case 2:
+            console.log('Sport-100 Helmet, Red');
+            break;
+          case 3:
+            console.log('Mountain Bike Socks, M');
+            break;
+          default:
+            console.log('Unknown Product');
+        }
+      }
+    </script>
+  </body>
+</html> -->
+
+<!-- =================================================================================== -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Switch Statement Samples</title>
+  </head>
+  <button onclick="blockScopeProblem();">Block Scope Problem</button>
+  <button onclick="blockScopeFix();">Block Scope Fix</button>
+  <body>
+    <script>
+      function blockScopeProblem() {
+        let productId = 2;
+        // Remember: The case statements themselves are not a block
+        // By wrapping a block of code in braces, any variable declared within that block is only visible within the block, and is released once the block ends.
+
+        switch (productId) {
+          case 1: {
+            let message = 'HL Road Frame - Black, 58';
+            console.log(message);
+            break;
+          }
+          case 2: {
+            let message = 'Sport-100 Helmet, Red';
+            console.log(message);
+            break;
+          }
+          case 3: {
+            let message = 'Mountain Bike Socks, M';
+            console.log(message);
+            break;
+          }
+          default: {
+            let message = 'Unknown Product';
+            console.log(message);
+            break;
+          }
+        }
+      }
+    </script>
+  </body>
+</html>

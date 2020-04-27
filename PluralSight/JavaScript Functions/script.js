@@ -270,15 +270,243 @@
 //
 //
 //
-//
-//
-//
 
 // Let's look at yet another way functions are created in JavaScript. This time, we are using the 'new' keyword when invoking the sayHi() function. This is also known as the constructor function. The value of 'this' here will be an empty object.
 // Any time we invoke a function with the 'new' keyword, JavaScript implicitly creates an empty object within the function before returning it.
 // So in our example, the variable greeting, will hold this empty object.
-function sayHi() {
-  console.log('Hi');
-  console.log(this);
+// function sayHi() {
+//   console.log('Hi');
+//   console.log(this);
+// }
+// let greeting = new sayHi();
+//
+//
+//
+// Now that we have a good understanding of how the 'this' object get its value, let's look at the .call() method.
+
+// let person1 = {
+//   name: 'Tobias',
+//   age: 22,
+// };
+// let person2 = {
+//   name: 'Jayden',
+//   age: 21,
+// };
+
+// let sayHi = function () {
+//   console.log(`Hi ${this.name}`);
+// };
+
+// sayHi(); // prints out 'Hi', as it refers to the global window oject, which has no name property
+//
+// What we want to do here is set the value of 'this' to anything other than the current execution context
+// Every JavaScript function object has a few properties that come out of the box. One of these properties is the .call() method. We can pass another object as an argument to this .call() method, as shown below.
+// Passing the person1 object to the .call() method as an argument of sayHi binds the value of 'this' in sayHi, to the object we pass in.
+// sayHi.call(person2); // Binding sayHi to the person1 object logs out 'Hi John' to the console.
+//
+// In the same way, when we pass the person2 as an argument to sayHi.call(), the value 'Hi Jayden' is logged to the console.
+//
+// We can also pass additional arguments to the call method
+// //
+// let person1 = {
+//   name: 'Tobias',
+//   age: 22,
+// };
+
+// let sayHi = function (message) {
+//   console.log(`${message}, ${this.name}`);
+// };
+
+// sayHi.call(
+//   person1,
+//   'This is the message passed as an argument to the call method'
+// );
+// We are passing a message variable in addition to the person1 object.
+// Call let's us run the function sayHi in the context of the first argument message
+// Remember, we cannot use .call() on objects, only on functions
+//
+//
+//
+//
+// .apply()
+// Just like .call(), every function object also has an .apply() method. In the examples we have seen so far, we can easily replace a .call() with an .apply() method.
+//
+// How does .apply() and .call() differ?
+// While the .apply() method syntax looks almost identical to that of a .call():
+// .call() accepts an argument list
+// // .apply() accepts a single array of arguments
+// function introduction(name, profession) {
+//   console.log(`My name is ${name}, and I am a ${profession}`);
+//   console.log(this);
+// }
+
+// introduction('Tobias', 'student');
+
+// introduction.apply(undefined, ['Tobias', 'lawyer']); // note the apply method takes in an array as an argument
+// introduction.call(undefined, 'Tobiscuit', 'artist'); // the call takes multiple arguments
+// Since we aren't changing the function context we pass in undefined as the first argument
+//
+// How do we decide when to use a .call() or an .apply() ???
+// .apply()
+//  // Use the .apply() method when the input parameter is already in the form of an array, consisting of similar values
+// Otherwise
+//  // If we're dealing with multiple arguments that are not really related to each other, use the .call() method
+//
+//
+//
+// With .call() and .apply(), we call an existing function and change the function context, that is the value of the 'this' object.
+//
+// What if we would like to make a copy of a function, and then change the value of 'this'? The .bind() method allows us to do just that
+// let person1 = {
+//   name: 'Tobias',
+//   getName: function () {
+//     return this.name;
+//   },
+// };
+
+// let person2 = { name: 'John' };
+// let getNameCopy = person1.getName.bind(person2);
+// // In this way, we are no longer changing the context of an existing function, the way we did in .call() and .apply(), but instead create a new copy of the function, and then change its context to another object.
+// console.log(getNameCopy());
+// //
+// //
+// //
+// // Built-in functions
+// // eval()
+// //  // Accepts a string as an input, evalues it, and returns a value
+// let x = 1;
+// let y = 2;
+// console.log(eval('x + y + 1'));
+// .eval() Takes an expression in string format as input
+// .eval() continued
+// let x = 1;
+// let y = 2;
+// let s = 'abc';
+// console.log(eval('x + y + s'));
+//
+//
+//
+// console.log(parseInt('F', 16)); // prints 15. returns the value 'F' in base 16, which is 15
+// console.log(parseInt('15', 10)); // prints 15. returns the value of 15 in decimal, which is also 15
+// console.log(parseInt('Hi', 10)); // returns NaN
+// parseInt() parses a string and returns an integer.
+// Optionally, we can also specify an additional base or radix argument to return the integer of that base.
+// If the first argument cannot be converted to a number, then parseInt() returns a special value of NaN, Not a Number.
+//
+//
+//
+// parseFloat() works just like parseInt()
+// console.log(parseFloat('3.99')); // 3.99
+// console.log(parseFloat('3.99e-1')); // 0.399?
+// console.log(parseFloat('')); // NaN
+//
+//
+//
+// escape()
+// Returns the hexadecimal encoding of an argument in the ASCII latin-1 (ISO 8859) character set
+// console.log(escape('text')); // For example, alphanumeric characters like 'text' is 'text' in this character set
+// console.log(escape(' ')); // while non-alphanumeric characters are represented as %xx where xx is a hexadecimal encoding of the ASCII character in the ISO LATIN-1 character set
+// console.log(escape('abc&%'));
+//
+//
+//
+// unescape()
+// Does the opposite of escape()
+// Returns the ASCII string for a given input value
+// console.log(unescape('text')); // text
+// console.log(unescape('%20')); //
+// console.log(unescape('abc%26%25')); // abc&%
+//
+//
+//
+// escape() and unescape() show us how encoding and decoding work
+
+// console.log(escape('text'));
+// console.log(escape(' '));
+// console.log(escape('abc&%'));
+// console.log('==========================');
+// console.log(unescape('text'));
+// console.log(unescape('%20'));
+// console.log(unescape('abc%26%25'));
+//
+//
+//
+//
+//
+// Module Review
+// When to use the .apply() and .call() methods, how they differ from each other, and how they let us change the context to another object.
+// We also looked at how the .bind() function lets us create a copy of a function, and then change the function context.
+// Finally, we looked at some of the built-in functions in JavaScript and when to use them. In the next module, we'll look at the spread and rest parameters
+//
+//
+//
+// Default Parameters
+// Allow us to give a default value to a parameter in a function
+// function sayHi(name = 'World') {
+//   console.log(`Hello ${name}`);
+// }
+// // Since we have a default parameter, we can omit the argument and the default value will take place
+// sayHi();
+// // Or we can pass in an argument as a parameter
+// sayHi('Tobias');
+// // Another example of default parameters
+// function sayHi(message, name = 'World') {
+//   console.log(message + name);
+// }
+// // Not all parameters *need* to have default values
+// sayHi('Hello');
+// sayHi('Hi', 'Tobias');
+// ALWAYS declare the default parameters AFTER the regular parameters in your function definition
+//
+//
+//
+// Rest parameters
+// We can define a function to store multiple arguments in a single array. This is especially useful when we are invoking a function with multiple arguments
+// Rest Parameters example
+// let sayHi = function greet(...names) {
+//   names.forEach((name) => console.log('Hi ' + name));
+// };
+
+// sayHi('Tobias', 'Jayden', 'Anna');
+// Another example
+let sayHi = function greet(message, ...names) {
+  // Just like the default parameters, rest parameters should appear after any regular parameters in our function definition
+  console.log(message + ' everyone!');
+  // The rest parameters always stores the rest of the arguments as an array
+  names.forEach((name) => console.log('Hi ' + name));
+};
+
+sayHi('Welcome', 'Tobias', 'Jayden', 'Akana');
+// Remember: Rest parameters must be the last formal parameter, or else we get a SyntaxError
+//
+//
+//
+// Spread Operator
+// Is the opposite of how a rest parameter works. It allows a function to take an array as an argument and then spread out it's elements so that they can be assigned to individual parameters.
+function greet(person1, person2) {
+  console.log('Hello ' + person1 + ' and ' + person2);
 }
-let greeting = new sayHi();
+
+let names = ['Tobias', 'Jayden'];
+greet(...names);
+// Although it looks similar, we are going the opposite here
+// We are passing an array, as an argument, and then spreading its elements into individual parameters of the function
+//
+//
+//
+// Another example of the Spread Operator
+function display(char1, char2, char3, char4) {
+  console.log(char1, char2, char3, char4);
+}
+let letters = 'abcd';
+display(...letters);
+//
+// While a Rest parameter collects individual arguments and stores them in an array, the spread operator takes an array as an argument and spreads it into individual parameters
+//
+//
+// We looked at setting default parameters when defining a function (do it last btw)
+// Defining rest parameters, and how we can use the ... (ellipsis) notation with a parameter in a function definition such that we can store a list of arguments as an array
+// We also looked at the Spread operator, which allows us to pass an array with the ... (ellipsis) notation and have its elements spread across various parameters.
+//
+//
+// We should be familar with all the different ways we can create functions in JavaScript to write modular, readable, and reusable code. With some practice and effort, writing and working with functions and its various forms will become second-nature to us.

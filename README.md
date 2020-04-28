@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/27/2020**  
+Pluralsight: JavaScript Asynchronous Programming & Promises
+
 **04/20/2020**
 fCC's JS Algs & DS's: Earned Certification
 

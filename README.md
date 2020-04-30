@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/29/2020**  
+Pluralsight: JavaScript Array & Collections (in progress)
+Introduction to data visualization with Chart.js
+
 **04/28/2020**  
 Pluralsight: JavaScript Asynchronous Programming & Promises (finished)  
 Pluralsight: JavaScript Array & Collections (in progress)

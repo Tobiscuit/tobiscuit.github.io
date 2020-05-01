@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**04/30/2020**  
+Pluralsight: JavaScript Array & Collections  
+Currently learning about Sets, WeakSets, Maps, and WeakMaps.
+
 **04/29/2020**  
 Pluralsight: JavaScript Array & Collections (in progress)
 Introduction to data visualization with Chart.js

@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/01/2020**  
+⌛️Udemy: React - The Complete Guide by Maximilian Schwarzmüller
+
 **04/30/2020**  
 Pluralsight: JavaScript Array & Collections  
 Currently learning about Sets, WeakSets, Maps, and WeakMaps.

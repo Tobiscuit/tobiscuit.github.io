@@ -4,6 +4,16 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/02/2020**  
+Explored my available resources:  
+* CodeCademy Pro  
+* Frontend Masters  
+* ZeroToMastery.io  
+* Conquering Responsive Design by Kevin Powell
+Now that I've got access to several high quality learning resources, I must be much more ambitious.  
+I'm struggling with some health issues but I must push myself with compassion
+⌛️Udemy: React - The Complete Guide by Maximilian Schwarzmüller
+
 **05/01/2020**  
 ⌛️Udemy: React - The Complete Guide by Maximilian Schwarzmüller
 

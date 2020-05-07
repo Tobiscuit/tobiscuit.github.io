@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/06/2020**  
+The last couple of days have been great! I got accepted to **_Zero To Mastery Academy_** taught by **_Andrei Neagoie_**  
+Currently taking Learning How To Learn, perhaps I'll write notes here or create a medium account! :D
+
 **05/02/2020**  
 Explored my available resources:  
 * CodeCademy Pro  

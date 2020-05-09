@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/08/2020**  
+Learning To Learn:  
+* Found out about Anki, a cross-platform open-source flashcard application. I've started to create flashcards for all the subjects I'm studying.  
+* Learned about S.M.A.R.T. goals and how it helps me achieve anything I set my mind to. (Specific, Measurable, Attainable, Relevant, and Time-Bound). I created a Google Docs detailing everything, and I'm going to print it and hang it on my door! :D  
+* Reviewed React notes I've taken from The React Handbook by Flavio Copes
+
 **05/06/2020**  
 The last couple of days have been great! I got accepted to **_Zero To Mastery Academy_** taught by **_Andrei Neagoie_**  
 Currently taking Learning How To Learn, perhaps I'll write notes here or create a medium account! :D

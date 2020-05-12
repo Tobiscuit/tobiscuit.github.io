@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/10/2020**  
+Learning to Learn:
+* Systems build habits, and habits are energy-savers.
+* The _Pareto Principle_ is all about selecting the most critical topics and removing the unnecessary noise. To be a master at something one must be in the top 5%.
+* The forgetting curve and spaced repetition. Our mind is like a muscle and can be trained for efficient learning.
+
 **05/08/2020**  
 Learning To Learn:  
 * Found out about Anki, a cross-platform open-source flashcard application. I've started to create flashcards for all the subjects I'm studying.  

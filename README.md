@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/12/2020**  
+Started The Complete Web Developer in 2020 by Andrei Neagoie  
+Went over high level overview of networking, how the web works, and tried out a new IDE! 
+
 **05/11/2020**  
 Finished Learning to Learn!  
 There are so many techniques I've learned about and it's eye opening how unproductive I've been compared to what I can now be. Divide and conquer the problem into small chunks with spaced repetition and pomodoro techniques following Parkinson's Law and the pareto principle I'm excited for the future!!!

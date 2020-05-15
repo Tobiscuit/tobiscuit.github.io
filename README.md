@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/14/2020**  
+* Finished advanced HTML, though it didn't include semantic HTML (this is essential for SEO). It was mostly things I knew so it was good review.  
+* Continued reading Programming Principles by Andrei Neagoie  
+* Day 10 of Kevin Powell's Conquering Responsive Web Design challenge
+
 **05/12/2020**  
 Started The Complete Web Developer in 2020 by Andrei Neagoie  
 Went over high level overview of networking, how the web works, and tried out a new IDE! 

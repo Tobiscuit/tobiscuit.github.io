@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/15/2020**  
+* Finished CSS
+* Started advanced CSS
+
 **05/14/2020**  
 * Finished advanced HTML, though it didn't include semantic HTML (this is essential for SEO). It was mostly things I knew so it was good review.  
 * Continued reading Programming Principles by Andrei Neagoie  

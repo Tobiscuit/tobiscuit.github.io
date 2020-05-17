@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/16/2020**  
+* Continued the Complete Web Developer 2020  
+* Day 11 of Kevin Powell's Conquering Responsive Design Challenge
+
 **05/15/2020**  
 * Finished CSS
 * Started advanced CSS

@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/17/2020**  
+* Complete Web Developer in 2020 (22%)  
+* Reviewed Anki JS Flashcards
+
 **05/16/2020**  
 * Continued the Complete Web Developer 2020  
 * Day 11 of Kevin Powell's Conquering Responsive Design Challenge

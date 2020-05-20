@@ -4,6 +4,16 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/19/2020**  
+* Reviewed Anki flashcards
+* Currently on CSS Grid + Layouts of Complete Web Developer in 2020
+* Going to take some time to really master CSS Flexbox/Grid, it's a concept I constantly struggle with
+
+**05/18/2020**  
+* Complete Web Developer in 2020 by Andrei Neagoie (26%)
+* Anki review: JS, Learning to Learn
+* Reviewing YDKJSY: Get Started
+
 **05/17/2020**  
 * Complete Web Developer in 2020 (22%)  
 * Reviewed Anki JS Flashcards

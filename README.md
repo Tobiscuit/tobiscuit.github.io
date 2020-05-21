@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/20/2020**
+* The Complete CSS Flexbox Tutorial by @js_tut
+
 **05/19/2020**  
 * Reviewed Anki flashcards
 * Currently on CSS Grid + Layouts of Complete Web Developer in 2020

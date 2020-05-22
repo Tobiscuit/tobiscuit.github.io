@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/21/2020**  
+* The Complete CSS Grid Tutorial by @js_tut (in progress)
+
 **05/20/2020**
 * The Complete CSS Flexbox Tutorial by @js_tut
 

@@ -4,8 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/23/2020**  
+* The Complete CSS Grid by @js_tut (in progress, note I'm handwriting the entire post to absorb all the information)
+* Reviewed Anki JS flashcards
+
 **05/22/2020**  
-* The Complete CSS Grid Tutorial by @js_tut (halfway complete)  
+* The Complete CSS Grid Tutorial by @js_tut
 * Reviewed Flexbox and yesterday's Grid concepts
 
 **05/21/2020**  

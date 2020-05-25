@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/24/2020**  
+* So close to finishing The Complete CSS Grid by @js_tut (yet so far from actually mastering it!)  
+* Reviewed Flexbox  
+* Found a great resource for learning [Regular Expressions](https://regexone.com/), going through the lessons
+
 **05/23/2020**  
 * The Complete CSS Grid by @js_tut (in progress, note I'm handwriting the entire post to absorb all the information)
 * Reviewed Anki JS flashcards

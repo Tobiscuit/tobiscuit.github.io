@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/25/2020**  
+* Codecademy: Code Foundations  
+* Explored Dijkstra's algorithm for finding the shortest path between two nodes
+* I've been adding too many Anki flashcards lately and it's been difficult to keep up
+
 **05/24/2020**  
 * So close to finishing The Complete CSS Grid by @js_tut (yet so far from actually mastering it!)  
 * Reviewed Flexbox  

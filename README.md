@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/27/2020**  
+* ZTM Complete Web Developer: Finished CSS Grid + Layout section
+* Created a responsive layout using Grid and Flexbox
+
 **05/26/2020**  
 * Finished The Complete CSS Grid by @js_tut
 * Practiced Flexbox Froggy and Grid Garden, now reviewing Programming Principles by Andrei Neagoie

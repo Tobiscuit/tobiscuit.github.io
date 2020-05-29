@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/28/2020**  
+* Continued The Complete Web Developer  
+* Taking copious amounts of notes from The HTML Handbook (I'm not avoiding React, I swear!)
+
 **05/27/2020**  
 * ZTM Complete Web Developer: Finished CSS Grid + Layout section
 * Created a responsive layout using Grid and Flexbox

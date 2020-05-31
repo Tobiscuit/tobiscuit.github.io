@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/30/2020**  
+* Started the JavaScript section of my course
+
 **05/28/2020**  
 * Continued The Complete Web Developer  
 * Taking copious amounts of notes from The HTML Handbook (I'm not avoiding React, I swear!)

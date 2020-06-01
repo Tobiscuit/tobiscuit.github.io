@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**05/31/2020**  
+* The HTML Handbook by Flavio Copes (42%)  
+* The React Handbook by Flavio Copes (45%)  
+
 **05/30/2020**  
 * Started the JavaScript section of my course
 

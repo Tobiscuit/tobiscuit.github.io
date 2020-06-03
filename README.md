@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/02/2020**  
+* Automating the Boring Stuff Chapter 1
+
 **06/01/2020**  
 * The HTML Handbook (52%)
 

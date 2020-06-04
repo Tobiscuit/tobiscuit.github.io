@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/03/2020**  
+* Codecademy: Code Foundations career path (95%)
+
 **06/02/2020**  
 * Automating the Boring Stuff Chapter 1
 

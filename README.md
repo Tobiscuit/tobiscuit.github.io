@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/04/2020**  
+* The HTML Handbook by Flavio Copes (65%)  
+* Codecademy: Code Foundations - Survey of Data Science
+
 **06/03/2020**  
 * Codecademy: Code Foundations career path (95%)
 

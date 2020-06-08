@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/07/2020**  
+* Completed Codecademy: Code Foundations!  
+* I've thought about documenting what I've learnt here, though I'm not sure it's a good place. The Netflix recommendation engine personalizes our experiences! I learned about the data science process and its applications.
+
 **06/06/2020**  
 * Codecademy - Survey of Data Science is giving me a tough time, as it is uncharted territory. I'm putting extra effort into absorbing the knowledge because data science can be applied to anything with enough domain expertise.
 * Reviewed The HTML Handbook notes and Anki

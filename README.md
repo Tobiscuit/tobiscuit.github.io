@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/08/2020**  
+* Started Codecademy: Web Developer path  
+* Continued ZTM: The Complete Web Developer 2020
+
 **06/07/2020**  
 * Completed Codecademy: Code Foundations!  
 * I've thought about documenting what I've learnt here, though I'm not sure it's a good place. The Netflix recommendation engine personalizes our experiences! I learned about the data science process and its applications.

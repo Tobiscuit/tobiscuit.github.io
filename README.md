@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/09/2020**  
+* Spent a whole hour on Anki flashcards! Pretty proud of reviewing Learning to Learn, JavaScripts, and a few data science cards. I didn't create many data science cards because it's not immediately relevant. The best use of my time right now is web development.
+* The HTML Handbook by Flavio Copes (80%)
+
 **06/08/2020**  
 * Started Codecademy: Web Developer path  
 * Continued ZTM: The Complete Web Developer 2020

@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/11/2020**  
+* The HTML Handbook by Flavio Copes (100%)
+* Codecademy: Web Development career path - Learned about the software development cycle, agile processes, and how product managers & project managers work together. Reviewed common interactions between designers and developers, and version control. 
+
 **06/10/2020**  
 * Codecademy: Web Development Career Path  
 * ZTM: The Complete Web Developer  

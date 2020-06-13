@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/12/2020**  
+* Continued ZTM: The Complete Web Developer
+* Learned about functions, arrays, and objects, which is nothing new but learning through different resources solified the concepts.
+* Finished several exercises without a single sweat, which differs from when I took JavaScript 2020 by Maximilian Schwarzmuller earlier this year. The first time I was learning JavaScript I struggled **_a lot_**
+
 **06/11/2020**  
 * The HTML Handbook by Flavio Copes (100%)
 * Codecademy: Web Development career path - Learned about the software development cycle, agile processes, and how product managers & project managers work together. Reviewed common interactions between designers and developers, and version control. 

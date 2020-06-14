@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/13/2020**  
+* ZTM: The Complete Web Develper (38%)
+* Codecademy: Web Developer Career Path - HTML Tables
+* Solidified JavaScript concepts, started learning about the DOM, and using Codecademy to freeflow work on projects. For example, I'm getting all elements with a <td> tag using JS, their textContent, and trying to tally up the total and dynamically display it using JS. It's difficult, but I'm becoming confident in solving problems like these. I'm excited as to what I'll learn tomorrow.
+
 **06/12/2020**  
 * Continued ZTM: The Complete Web Developer
 * Learned about functions, arrays, and objects, which is nothing new but learning through different resources solified the concepts.

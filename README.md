@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/14/2020**  
+* ZTM: The Complete Web Developer (in progress)
+* Created the classic To-do List app, added form validation, event listeners for keypress, and went above and beyond by styling it. I definitely want to create a well designed todo list app for personal use with browser storage or SQLite.
+* Going to continue Codecademy: Web Developer path and call it a day! :)
+
 **06/13/2020**  
 * ZTM: The Complete Web Develper (38%)
 * Codecademy: Web Developer Career Path - HTML Tables

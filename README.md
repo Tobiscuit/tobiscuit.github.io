@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/15/2020**  
+* The DOM Event exercise called for a todo list app with interactive crossing things out, automatically adding buttons after adding items to the list, and clicking the **_button_** strikes it through or clears it out.
+* Although I finished the requirements, I was not able to finish the automatic addition of buttons in the time I alloted for myself. So I decided to code along an elegant todo list app (YouTube).
+* Completed the first part by Kevin Powell (HTML + CSS), tomorrow will be the JavaScript portion by Kyle from Web Dev Simplified
+
 **06/14/2020**  
 * ZTM: The Complete Web Developer (in progress)
 * Created the classic To-do List app, added form validation, event listeners for keypress, and went above and beyond by styling it. I definitely want to create a well designed todo list app for personal use with browser storage or SQLite.

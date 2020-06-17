@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/16/2020**  
+* ZTM: The Complete Web Developer - Finished the JavaScript DOM section, and started Advanced JavaScript
+* Since I've already finished a 52+ hour course on JavaScript, most of this was refresher: ES5 vs ES6 variable declaration (var vs let/const) and the differing scopes. Object destructuring, ternary operator, switch statement, and touched upon currying and composition.
+* The todo list app from yesterday is postponed until I catch up to my ZTM Study Group!:)
+
 **06/15/2020**  
 * The DOM Event exercise called for a todo list app with interactive crossing things out, automatically adding buttons after adding items to the list, and clicking the **_button_** strikes it through or clears it out.
 * Although I finished the requirements, I was not able to finish the automatic addition of buttons in the time I alloted for myself. So I decided to code along an elegant todo list app (YouTube).

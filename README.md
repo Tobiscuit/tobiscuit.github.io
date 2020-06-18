@@ -1,8 +1,12 @@
 ## Coding Journey
-Hello, world! As a former Computer Information Systems student, I realized my interest belonged to Computer Science. During my time at college, I hadn't developed the social skills to succeed and I now understand how to improve by communicating with my peers. Setting myself up for success is imperative, so this GitHub repo will serve as progress I can look back on to measure my progress, as well as demonstrate proficiency to prospective employers.
+Hello, world! As a former Computer Information Systems student, I realized my interest belonged to Computer Science. During my time at college, I hadn't developed the social skills to succeed and I now understand how to improve by communicating with my peers. Setting myself up for success is imperative, so this GitHub repo will serve as a log so I can look back on to measure my progress, as well as demonstrate proficiency to prospective employers.
 Excited and looking forward to providing information solutions to companies through web development!
 
 ### Log
+
+**06/17/2020**  
+* ZTM: The Complete Web Developer - I was wrong, it turns out I'm ahead of my classmates. Following Parkinson's Law, I am setting the deadline of the end of the month to finish the course. This is a daunting challenge.
+* Explored advanced arrays, advanced objects, and was once again able to finish the exercises without looking at the solutions. Problem solving is becoming natural for this topic, and I was able to use array methods without looking at documentation.
 
 **06/16/2020**  
 * ZTM: The Complete Web Developer - Finished the JavaScript DOM section, and started Advanced JavaScript

@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/18/2020**  
+* ZTM: The Complete Web Developer (47%)
+* In the course, Andrei talked about type coercion (review) but I learned something today: Object.keys(), Object.values(), and Object.entries().
+* These methods are something I've used and encountered before, but didn't fully understand it the first time around... or the second... or the third... I'm going to keep on reviewing tonight, I should be able to remember the syntax.
+* Completing exercises on my own in this second JavaScript course has been rewarding. All exercises will be uploaded to GitHub at the end of the course.
+
 **06/17/2020**  
 * ZTM: The Complete Web Developer - I was wrong, it turns out I'm ahead of my classmates. Following Parkinson's Law, I am setting the deadline of the end of the month to finish the course. This is a daunting challenge.
 * Explored advanced arrays, advanced objects, and was once again able to finish the exercises without looking at the solutions. Problem solving is becoming natural for this topic, and I was able to use array methods without looking at documentation.

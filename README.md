@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/19/2020**
+* Review day
+
 **06/18/2020**  
 * ZTM: The Complete Web Developer (47%)
 * In the course, Andrei talked about type coercion (review) but I learned something today: Object.keys(), Object.values(), and Object.entries().

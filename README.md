@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/21/2020**  
+* Introduction to asynchronous code in JavaScript and reviewed advanced loops
+
 **06/20/2020**  
 * Struggled with for..in and for..of loops. Bottom line:  for..in are for enumerables (objects and arrays), while for..of is great for iterables (arrays and strings).
 * The exercises for ES10 (ES2019) were difficult. Specifically, creating functions to find the largest number, I had tor resort to using the spread operator. Which isn't bad, but I want to be able to solve problems in different ways.

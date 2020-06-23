@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/22/2020**  
+* Reading a [detailed article on scope by Hammad Ahmed](https://scotch.io/tutorials/understanding-scope-in-javascript#toc-what-is-scope-)
+* Still trying to grasp for..in and for..of, more review but there's so much to remember. There must be a way to think of this intuitively. Oh - and asynchronous code, my head is spinning T.T
+
 **06/21/2020**  
 * Introduction to asynchronous code in JavaScript and reviewed advanced loops
 

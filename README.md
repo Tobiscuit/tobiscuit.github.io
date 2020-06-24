@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/23/2020**  
+* Reading [A Brief History of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde) though struggling to follow the code. It has components of functional programming, an iteratee? The way scope is being used? It's fascinating, and it's helping me understand other languages.
+
 **06/22/2020**  
 * Reading a [detailed article on scope by Hammad Ahmed](https://scotch.io/tutorials/understanding-scope-in-javascript#toc-what-is-scope-)
 * Still trying to grasp for..in and for..of, more review but there's so much to remember. There must be a way to think of this intuitively. Oh - and asynchronous code, my head is spinning T.T

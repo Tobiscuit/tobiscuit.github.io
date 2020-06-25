@@ -4,6 +4,14 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/24/2020**  
+* Read [A Deep Dive Into JS Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+* How we organize our code impacts our maintainability. Scope helps us limit ourselves to think about few variables at a time, dividing problems into chunks.
+* For example, the library jQuery would put an object with methods on an upper scope, the global scope, but this leads to some problems.
+* The programming pattern mentioned above requires us to put our script tags in the right order, and changing the order or deleting a file can throw an error and completely halt our program. Maintaining code is tricky, because the dependencies beteween different parts of our code are implicit, so we don't know which functions depend on which scripts.
+* Modules groups functions and variables together and we create explicit relationships thorugh 'import/export' statements
+* Read a freeCodeCamp article: [How To Think Like a Programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+
 **06/23/2020**  
 * Reading [A Brief History of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde) though struggling to follow the code. It has components of functional programming, an iteratee? The way scope is being used? It's fascinating, and it's helping me understand other languages.
 

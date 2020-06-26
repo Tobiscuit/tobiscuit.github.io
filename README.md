@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/25/2020**  
+* Read a freeCodeCamp article on .slice(), .splice(), and .split()
+* Tried to do the Advanced JavaScript optional challenges from the course but had to look at the solutions. Still trying to reverse-engineer and understand the code
+
 **06/24/2020**  
 * Read [A Deep Dive Into JS Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 * How we organize our code impacts our maintainability. Scope helps us limit ourselves to think about few variables at a time, dividing problems into chunks.

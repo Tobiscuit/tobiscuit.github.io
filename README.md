@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/27/2020**  
+* Reviewed CSS Grid + Flexbox
+
 **06/25/2020**  
 * Read a freeCodeCamp article on .slice(), .splice(), and .split()
 * Tried to do the Advanced JavaScript optional challenges from the course but had to look at the solutions. Still trying to reverse-engineer and understand the code

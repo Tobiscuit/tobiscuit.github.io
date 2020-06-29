@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/28/2020**  
+* Created an concept map for Front End Libraries by freeCodeCamp - there is so much to cover
+* Continued reviewing CSS Grid + Flex, and reviewed the first chapter of You Don't Know JS Yet: Get Started
+* I'm halfway (50%) through Web Development: Zero to Mastery, but I'm taking time to digest what I've been learning. Specifically the optional JS Logic problems at the end of the Advanced JS section, they're still difficult for me to grasp.
+
 **06/27/2020**  
 * Reviewed CSS Grid + Flexbox
 

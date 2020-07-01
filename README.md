@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**06/30/2020**  
+* The optional JavaScript logic problems were too complex to solve, heck, they were too complex to read and understand the solutions.
+* I printed out the solution to one of the problems and annotating step-by-step what each line did. I have a much better understanding, but it can be better. I will go into work early so I have ample time to review the code.
+
 **06/28/2020**  
 * Created an concept map for Front End Libraries by freeCodeCamp - there is so much to cover
 * Continued reviewing CSS Grid + Flex, and reviewed the first chapter of You Don't Know JS Yet: Get Started

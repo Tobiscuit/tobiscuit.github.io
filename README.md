@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/03/2020**  
+* Review™️
+
 **07/02/2020**  
 * Going to start doing Codecademy's Web Developer path out of order to prioritize my weakest subjects, since my pro membership ends in less than a week.
 * Going through their Interactive JavaScript Website module, and getting a good refresher on the DOM.

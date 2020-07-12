@@ -4,6 +4,13 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/11/2020**  
+* Finished Developer Environment section of ZTM: The Complete Web Developer (2020)
+* Customized Sublime Text through the json configuration file.
+* Learned about Package Control for sublime and installed userful packages such as Emmet, Babel, GitGutter, and Material Design theme, color schemes, and icons.
+* Reviewed common terminal commands, shell alternatives, and customizations
+* Covered VS Code but I left my setup unchanged, it's great as it is (LOVE Material Design !!! )
+
 **07/10/2020**  
 * Review™️
 

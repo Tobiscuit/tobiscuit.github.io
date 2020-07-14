@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/12/2020**
+* Review™️
+
 **07/11/2020**  
 * Finished Developer Environment section of ZTM: The Complete Web Developer (2020)
 * Customized Sublime Text through the json configuration file.

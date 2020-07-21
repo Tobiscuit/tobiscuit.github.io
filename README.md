@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/20/2020**  
+* ZTM: The Complete Web Developer in 2020 - Learned about API's
+* Finished the _HTTP/JSON/AJAX + Asynchronous Javascript_
+* Refactored promises into asynchronous functions (Async / Await)
+
 **07/19/2020**
 * Review™️
 

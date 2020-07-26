@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/25/2020**
+Built SmartBrain using:
+    -Clarifai AI Face Recognition API
+    -Tilt.js
+    -Particles.js
+
 **07/20/2020**  
 * ZTM: The Complete Web Developer in 2020 - Learned about API's
 * Finished the _HTTP/JSON/AJAX + Asynchronous Javascript_

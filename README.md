@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/27/2020**  
+* Finished the front-end portion of SmartBrain with navigation components & design
+* Read Node core commands documentation
+
 **07/25/2020**
 Built SmartBrain using:
     -Clarifai AI Face Recognition API

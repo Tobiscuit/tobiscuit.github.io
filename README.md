@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/28/2020**  
+* Started Node.js + Express section
+* Introduced to some of Node's core modules (fs, http)
+* Built a node server & then built one using Express.js (a framework)
+* Introduced to middleware and Postman for creating & testing API's
+
 **07/27/2020**  
 * Finished the front-end portion of SmartBrain with navigation components & design
 * Read Node core commands documentation

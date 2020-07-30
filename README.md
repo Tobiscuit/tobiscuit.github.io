@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/29/2020**
+* On the final exercise of Node.js + Express section
+* I don't feel I understood RESTful API's well (we didn't go in depth)
+* Basic Node File System commands (reading, writing, appending)
+
+
 **07/28/2020**  
 * Started Node.js + Express section
 * Introduced to some of Node's core modules (fs, http)

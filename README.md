@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/30/2020**
+* Started on SmartBrain's backend
+* Set up a server using Express, created routes for the requests, & added a temporary array to serve as the database
+* Added bcrypt for password hashing, & PW's are compared through the /signin route
+
 **07/29/2020**
 * On the final exercise of Node.js + Express section
 * I don't feel I understood RESTful API's well (we didn't go in depth)

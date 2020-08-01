@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**07/31/2020**
+* Connected backend server to front-end app
+* Learned about password security best practices & hashing w/ the npm library 'bcrypt'
+* If sign-in inputs (password, email) match our array database, access to the app is granted
+
 **07/30/2020**
 * Started on SmartBrain's backend
 * Set up a server using Express, created routes for the requests, & added a temporary array to serve as the database

@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/01/2020**
+* ZTM: The Complete Web Developer (in progress)
+* Registering users now works! Users are added to our database array (which resets on server restart)
+* Each time users submit an image URL to face-detect, they gain entries. These persist in our state.user
+* Next: databases section
+
 **07/31/2020**
 * Connected backend server to front-end app
 * Learned about password security best practices & hashing w/ the npm library 'bcrypt'

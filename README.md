@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/02/2020**
+* Set up and installed pgAdmin GUI for PostgresSQL (& set up a path variable for Windows CLI)
+* Created tables by defining their data types, wrote queries, learned about nesting subqueries
+* Exploring databases a bit more
+
 **08/01/2020**
 * ZTM: The Complete Web Developer (in progress)
 * Registering users now works! Users are added to our database array (which resets on server restart)

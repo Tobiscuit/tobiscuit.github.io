@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/03/2020**
+* Read 1/3 of Chapter 1 of "Structure and Interpretation of Computer Programs"
+* Textbook uses Scheme's dialect of Lisp
+* "People create programs to direct processes. In effect, we conjure the spirits of the computer with our spells."
+
 **08/02/2020**
 * Set up and installed pgAdmin GUI for PostgresSQL (& set up a path variable for Windows CLI)
 * Created tables by defining their data types, wrote queries, learned about nesting subqueries

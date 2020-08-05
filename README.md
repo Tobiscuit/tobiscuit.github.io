@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/04/2020**
+* Review™️
+
 **08/03/2020**
 * Read 1/3 of Chapter 1 of "Structure and Interpretation of Computer Programs"
 * Textbook uses Scheme's dialect of Lisp

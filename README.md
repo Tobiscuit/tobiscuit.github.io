@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/06/2020**
+* Created PostgressSQL databases. One for users, the other for login
+* Connected DB to backend through Knex.js (a SQL query builder for JS)
+* Implemented Bcrypt password hashing & validation
+* Updated server routes to use DB
+
 **08/04/2020**
 * Review™️
 

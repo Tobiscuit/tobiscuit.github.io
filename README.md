@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/07/2020**
+* Cleaned up server file (Separation of Concerns): our endpoints are now under /controllers folder
+* Added backend & frontend validation
+* Reviewed security: API key was exposed in request headers, moved API call from frontend to backend
+
 **08/06/2020**
 * Created PostgressSQL databases. One for users, the other for login
 * Connected DB to backend through Knex.js (a SQL query builder for JS)

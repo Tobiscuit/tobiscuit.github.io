@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/09/2020**
+* Servers deployed & online (frontend, backend, & database) 
+* Read lots of articles on interviewing, though not expecting to apply for dev jobs until EoY. Much to learn these next few months Grinning face with smiling eyes
+* [SmartBrain Face Recognition App](https://smart-brain-1337.herokuapp.com)
+
 **08/07/2020**
 * Cleaned up server file (Separation of Concerns): our endpoints are now under /controllers folder
 * Added backend & frontend validation

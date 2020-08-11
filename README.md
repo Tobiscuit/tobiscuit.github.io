@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/10/2020**  
+ZTM has provided a lot of support, resources, & community.  
+@AndreiNeagoie & people I've met in tech-Twitter have been role models, lifting each other up.  
+I wouldn't have been able to do this w/o support from friends, family, & the #100DaysOfCode botzFace with tears of joy  
+Today I finished **_Zero To Mastery: The Complete Web Developerin 2020_**
+
 **08/09/2020**
 * Servers deployed & online (frontend, backend, & database) 
 * Read lots of articles on interviewing, though not expecting to apply for dev jobs until EoY. Much to learn these next few months Grinning face with smiling eyes

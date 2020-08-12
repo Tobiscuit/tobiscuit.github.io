@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/11/2020**
+* Started #ZTM: The Complete React Developer in 2020, a 40+ hour-course
+* Advantages of #React involve its declarative nature, where we build reusable components by telling React exactly what  needs to be built through JSX.
+
 **08/10/2020**  
 ZTM has provided a lot of support, resources, & community.  
 @AndreiNeagoie & people I've met in tech-Twitter have been role models, lifting each other up.  

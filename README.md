@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/12/2020**
+* Environment set-up for the course: this time we're using Vs Code
+* Learned about the benefits of CRA: it takes care of Webpack + Babel configuration
+* Currently working through the React Basics section
+
 **08/11/2020**
 * Started #ZTM: The Complete React Developer in 2020, a 40+ hour-course
 * Advantages of #React involve its declarative nature, where we build reusable components by telling React exactly what  needs to be built through JSX.

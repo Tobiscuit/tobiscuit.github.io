@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/13/2020**
+* 1st image shows manual binding of user-defined methods in class constructor. Necessary for 'this' to point to correct context
+* 2nd image demonstrates arrow functions automatically get lexical scope, thus no manual binding necessary
+
 **08/12/2020**
 * Environment set-up for the course: this time we're using Vs Code
 * Learned about the benefits of CRA: it takes care of Webpack + Babel configuration

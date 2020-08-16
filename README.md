@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+* React allows us to build websites like lego blocks (as components)
+* Went over the three stages of a component: mounting, updating, & unmounting
+*  Explored lifecycle methods, which are fundamental in structuring our code
+
 **08/13/2020**
 * 1st image shows manual binding of user-defined methods in class constructor. Necessary for 'this' to point to correct context
 * 2nd image demonstrates arrow functions automatically get lexical scope, thus no manual binding necessary

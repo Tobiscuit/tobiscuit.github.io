@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/15/2020**
+* The course covers React basics & immediately wants to jump into building a huge e-commerce website
+* Taking a detour & going through the official React documentation's "Main Concepts"
+
+**08/14/2020**
 * React allows us to build websites like lego blocks (as components)
 * Went over the three stages of a component: mounting, updating, & unmounting
 *  Explored lifecycle methods, which are fundamental in structuring our code

@@ -4,6 +4,13 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/17/2020**
+* React Documentation - Main Concepts:
+  * State and Lifecycle
+  * Handling Events
+  * Conditional Rendering
+  * HourglassCurrently on Lists and Keys
+
 **08/15/2020**
 * The course covers React basics & immediately wants to jump into building a huge e-commerce website
 * Taking a detour & going through the official React documentation's "Main Concepts"

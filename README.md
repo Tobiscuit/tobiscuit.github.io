@@ -4,6 +4,13 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/18/2020**
+* React Documentation - Main Concepts
+  * Lists and Keys
+  * Forms (in progress)
+
+> Might need to take notes for retention instead of following along
+
 **08/17/2020**
 * React Documentation - Main Concepts:
   * State and Lifecycle

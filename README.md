@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/19/2020**
+* MemoStarted note taking React's docs, in preparation for ZTM's React course
+* Neat security feature: using JSX prevents XSS (cross-site scripting) attacks by converting embedded values to strings
+
 **08/18/2020**
 * React Documentation - Main Concepts
   * Lists and Keys

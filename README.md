@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/21/2020**
+* ⌛ React docs (continued)
+* "If you imagine a component tree as a waterfall of props, each component's state is like an additional water source that joins it at an arbitrary point but also flows down" 
+
 **08/19/2020**
 * MemoStarted note taking React's docs, in preparation for ZTM's React course
 * Neat security feature: using JSX prevents XSS (cross-site scripting) attacks by converting embedded values to strings

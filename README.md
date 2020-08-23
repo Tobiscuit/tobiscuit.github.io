@@ -4,6 +4,16 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/22/2020**
+> ⌛ React docs 
+> Class methods are not bound by default in JavaScript, so we have to 'bind' methods in the constructor. 
+
+> Public class fields is an alternative syntax that allows us to use arrow functions 
+
+#100DaysOfCode 
+#React
+#ZTM
+
 **08/21/2020**
 * ⌛ React docs (continued)
 * "If you imagine a component tree as a waterfall of props, each component's state is like an additional water source that joins it at an arbitrary point but also flows down" 

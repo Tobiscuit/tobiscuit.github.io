@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/23/2020**
+> React docs ( continued )
+
 **08/22/2020**
 > ⌛ React docs 
 > Class methods are not bound by default in JavaScript, so we have to 'bind' methods in the constructor. 

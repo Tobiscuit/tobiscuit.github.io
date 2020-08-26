@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/25/2020**
+> React docs (currently on Forms)
+
 **08/24/2020**
 > React docs ( continued )
 > Reviewed all notes I've taken so far

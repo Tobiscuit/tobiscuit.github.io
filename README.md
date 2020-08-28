@@ -4,9 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/27/2020**
+> Following along with the React documentation (main concepts)
+
 **08/26/2020**
 > Review: React docs
-
 
 **08/25/2020**
 > React docs (currently on Forms)

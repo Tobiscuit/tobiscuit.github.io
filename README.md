@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/28/2020**
+> freeCodeCamp: Bootstrap section
+
 **08/27/2020**
 > Following along with the React documentation (main concepts)
 

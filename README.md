@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/30/2020**
+> freeCodeCamp: Sass section
+
 **08/29/2020**
 > freeCodeCamp: jQuery section
 

@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/31/2020**
+> Codecademy: Bootstrap course (in progress)
+
 **08/30/2020**
 > freeCodeCamp: Sass section
 

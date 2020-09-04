@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/03/2020**
+> #freeCodeCamp: React (36%)
+> Redid some of the previous fCC challenges
+> Learned about composing React elements, nesting them, and how they are all isolated from each other (can have their own state)
 
 **09/01/2020**
 > freeCodeCamp: React (in progress)

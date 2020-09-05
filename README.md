@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**08/04/2020**
+> Hourglass with flowing sand#freeCodeCamp: React (55%)
+> Learned about setting defaultProps & overriding them
+> Accessing props from stateless/stateful components in both class/function syntax
+> We can access state before render()'s retur statement
+
 **09/03/2020**
 > #freeCodeCamp: React (36%)
 > Redid some of the previous fCC challenges

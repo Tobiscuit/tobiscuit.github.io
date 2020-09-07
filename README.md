@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+{ round: 3, day: 0 }
+> #freeCodeCamp: #React (74%)
+
+> Lifecycle methods allow us to catch components at specific points in their lifecycle
+      ~ e.g. before the components are rendered, before they update, before they receive props, before they unmount, & so on.
+
 **08/04/2020**
 > Hourglass with flowing sand#freeCodeCamp: React (55%)
 > Learned about setting defaultProps & overriding them

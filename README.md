@@ -4,6 +4,16 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+
+**09/07/2020**
+{ round: 3, day: 1 }
+> ⏳ #freeCodeCamp: #React (89%)
+> Optimized re-renders with shouldComponentUpdate(), which takes in nextProps & nextState as params
+> Applied inline styles to JSX elements by assigning a 'style' object to a variable
+> Conditional rendering
+
+
+**09/06/2020**
 { round: 3, day: 0 }
 > #freeCodeCamp: #React (74%)
 

@@ -4,9 +4,15 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/08/2020**
+> { round: 3, day: 2 }
+> #freeCodeCamp: #React (100%)
+> If we need to render an unknown number of elements then we can [].map((element, index) => { }) to handle unknown state ahead of time
+> To know the amount of users online, we could [].filter(booleanFunction)
+
 
 **09/07/2020**
-{ round: 3, day: 1 }
+> { round: 3, day: 1 }
 > ⏳ #freeCodeCamp: #React (89%)
 > Optimized re-renders with shouldComponentUpdate(), which takes in nextProps & nextState as params
 > Applied inline styles to JSX elements by assigning a 'style' object to a variable
@@ -14,11 +20,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 
 **09/06/2020**
-{ round: 3, day: 0 }
+> { round: 3, day: 0 }
 > #freeCodeCamp: #React (74%)
-
 > Lifecycle methods allow us to catch components at specific points in their lifecycle
-      ~ e.g. before the components are rendered, before they update, before they receive props, before they unmount, & so on.
+      > ~ e.g. before the components are rendered, before they update, before they receive props, before they unmount, & so on.
 
 **08/04/2020**
 > Hourglass with flowing sand#freeCodeCamp: React (55%)

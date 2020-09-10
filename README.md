@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/09/2020**
+> #freeCodeCamp - Frontend Libraries Certification: Redux (35%)
+> As applications grow in complexity, so does state management. Manually passing props down the component tree becomes tedious when many components require a spec type of prop.
+#100DaysOfCode
+
 **09/08/2020**
 > { round: 3, day: 2 }
 > #freeCodeCamp: #React (100%)

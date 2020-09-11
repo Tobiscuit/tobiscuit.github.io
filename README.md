@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/10/2020**
+> #freeCodeCamp - Frontend Libraries Certification: Redux (47%)
+> Since managing state in complex applications becomes unwieldy, #React provides its Context API. 
+> Context allows us to pass data **_through the component tree**_
+
 **09/09/2020**
 > #freeCodeCamp - Frontend Libraries Certification: Redux (35%)
 > As applications grow in complexity, so does state management. Manually passing props down the component tree becomes tedious when many components require a spec type of prop.

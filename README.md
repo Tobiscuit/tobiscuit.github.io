@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/11/2020**
+> #freeCodeCamp: Redux (76%)
+> In #React, state is an object that represents parts of our application prone to change. It is similar to props but private & fully controlled by its component
+> State is necessary if we want our apps interactive
+#100DaysOfCode
+
 **09/10/2020**
 > #freeCodeCamp - Frontend Libraries Certification: Redux (47%)
 > Since managing state in complex applications becomes unwieldy, #React provides its Context API. 

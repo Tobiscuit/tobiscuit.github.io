@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/12/2020**
+> #freeCodeCamp: Redux (100%)  
+> Implementing Redux, a state management framework, for our #React apps requires us to treat Redux store as the single source of truth for application state  
+> Adhere to immutability: never modify state directly  
+#100DaysOfCode
+
 **09/11/2020**
 > #freeCodeCamp: Redux (76%)
 > In #React, state is an object that represents parts of our application prone to change. It is similar to props but private & fully controlled by its component

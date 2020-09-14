@@ -4,6 +4,13 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/13/2020**  
+{ round: 3, day: 7 }  
+>⏳#freeCodeCamp: React Redux (40%)  
+> #React Redux app components subscribe only to data relevant to their role (from the Redux store, our app's single source of truth for state)  
+> Components dispatch actions & trigger store (state) updates
+#100DaysOfCode
+
 **09/12/2020**
 > #freeCodeCamp: Redux (100%)  
 > Implementing Redux, a state management framework, for our #React apps requires us to treat Redux store as the single source of truth for application state  

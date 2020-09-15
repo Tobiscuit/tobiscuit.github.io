@@ -4,6 +4,14 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+{ round: 3, day: 8 }
+
+> ⏳#freeCodeCamp: React & Redux (70%)
+
+> React Redux API provides the wrapper component to wrap our #React apps. This wrapper allows access to the Redux store & dispatch functions throughout the component tree.
+
+#100DaysOfCode
+
 **09/13/2020**  
 { round: 3, day: 7 }  
 >⏳#freeCodeCamp: React Redux (40%)  

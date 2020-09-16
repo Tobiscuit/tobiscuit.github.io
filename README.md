@@ -4,6 +4,13 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/15/2020**
+> freeCodeCamp - React & Redux (100%)
+> 'react-redux' and Provider & connect() are required because React is not meant to work with Redux out of the box.  
+> The Provider component is wrapped around our app container and passed the Redux store as props.  
+> connect takes our 'mapStateToProps' & 'mapDispatchToProps' then we call it with our component right after.
+
+
 { round: 3, day: 8 }
 
 > ⏳#freeCodeCamp: React & Redux (70%)

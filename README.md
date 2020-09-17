@@ -4,6 +4,19 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/16/2020**
+{ round: 3, day: 10 }
+> Hourglass with flowing sand#freeCodeCamp: Front End Libraries Certification
+        ~ Heavy check mark Bootstrap
+        ~ Heavy check mark jQuery
+        ~ Heavy check mark Sass
+        ~ Heavy check mark React Hourglass with flowing sand
+        ~ Heavy check mark Redux
+        ~ Heavy check mark React & Redux
+> Projects on hold Flag of France
+> Reviewed: React (50%)  
+#100DaysOfCode
+
 **09/15/2020**
 > freeCodeCamp - React & Redux (100%)
 > 'react-redux' and Provider & connect() are required because React is not meant to work with Redux out of the box.  

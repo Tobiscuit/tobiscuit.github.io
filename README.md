@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/17/2020**
+> Continued reviewing React (75%), reviewing Redux/React&Redux afterwards. 
+> #freeCodeCamp: Frontend Libraries Certification: All challenges completed, now time for massive review.
+
 **09/16/2020**
 { round: 3, day: 10 }
 > Hourglass with flowing sand#freeCodeCamp: Front End Libraries Certification

@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/19/2020**
+> Finished reviewing React
+> Now Reviewing Redux
+
 **09/18/2020**
 > Reviewed React 
 

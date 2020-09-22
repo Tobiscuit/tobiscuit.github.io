@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/21/2020**
+{ round: 3, day: 14 }  
+> #freeCodeCamp: #Redux (review)Hourglass with flowing sand  
+> It's best practice for our action types to be constants as we switch over action types in the reducer. It's also standard to combine reducers & apply middleware for asynchronous tasks (server requests, etc)  
+#100DaysOfCode
+
 **09/19/2020**
 > Finished reviewing React
 > Now Reviewing Redux

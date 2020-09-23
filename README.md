@@ -4,6 +4,14 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/22/2020**  
+{ round: 3, day: 15 }  
+> #freeCodeCamp: #Redux (review) ✅  
+> Redux immutability allows for nifty features such as Time Traveling debugging with the Redux Dev Tools extension.  
+> Went over defaultProps, propTypes, & React docs  
+#100DaysOfCode   
+#React  
+
 **09/21/2020**
 { round: 3, day: 14 }  
 > #freeCodeCamp: #Redux (review)Hourglass with flowing sand  

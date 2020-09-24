@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/23/2020**
+> Reviewed freeCodeCamp React
+
 **09/22/2020**  
 { round: 3, day: 15 }  
 > #freeCodeCamp: #Redux (review) ✅  

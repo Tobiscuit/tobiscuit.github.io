@@ -4,6 +4,12 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/25/2020**  
+{ round: 3, day: 17 }  
+> Hourglass with flowing sand#freeCodeCamp: React and Redux (50%)  
+> Read over the checklist for some of the projects and reviewed most of #React section  
+#100DaysOfCode  
+
 **09/24/2020**
 > Reviewed Redux 
 

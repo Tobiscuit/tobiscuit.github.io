@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+
+**09/26/2020**
+> React (review)
+
 **09/25/2020**
 > React (review)
 

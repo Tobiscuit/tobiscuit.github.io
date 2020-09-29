@@ -4,6 +4,8 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/28/2020**
+> freeCodeCamp: Redux (review) 100% (again)
 
 **09/26/2020**
 > React (review)

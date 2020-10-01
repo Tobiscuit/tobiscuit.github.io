@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**09/30/2020**
+> freeCodeCamp: React (review)  
+> Alternating between React and Redux sections
+
 **09/29/2020**
 > freeCodeCamp: Redux (review) 100% (again x 2)
 

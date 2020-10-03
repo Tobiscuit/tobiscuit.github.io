@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/02/2020**
+> freeCodeCamp: React, Redux, and React & Redux  
+> Going through the fCC curriculum is starting to become a breeze, and with repetition the concepts will continue to stick! Pretty happy with my progress so far.
+
 **10/01/2020**
 > freeCodeCamp: React, Redux (about finished with React again, aiming to finish Redux both in the same day!)
 

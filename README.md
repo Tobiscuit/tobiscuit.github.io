@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/03/2020**  
+> freeCodeCamp: React (review review review)  
+> Should start getting back to ZTM: React soon
+
 **10/02/2020**
 > freeCodeCamp: React, Redux, and React & Redux  
 > Going through the fCC curriculum is starting to become a breeze, and with repetition the concepts will continue to stick! Pretty happy with my progress so far.

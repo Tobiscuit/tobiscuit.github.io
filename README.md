@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/04/2020**  
+> freeCodeCamp: React, Redux (review)
+
 **10/03/2020**  
 > freeCodeCamp: React (review review review)  
 > Should start getting back to ZTM: React soon

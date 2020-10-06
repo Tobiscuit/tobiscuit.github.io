@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/05/2020**  
+> Scrimba: Learn React (33%)
+
 **10/04/2020**  
 > freeCodeCamp: React, Redux (review)
 

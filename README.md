@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/07/2020**  
+> Scrimba: Learn React (80%)  
+> I've learned a LOT, specially on controlling components using the computed name property.  
+> This was the perfect step after freeCodeCamp's React/Redux curriculum!
+
 **10/05/2020**  
 > Scrimba: Learn React (33%)
 

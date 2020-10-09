@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/08/2020**
+> FINISHED -- Scrimba: A Comprehensive Introduction to React (100%)  
+> STARTING -- Scrimba: The React Bootcamp  
+
 **10/07/2020**  
 > Scrimba: Learn React (80%)  
 > I've learned a LOT, specially on controlling components using the computed name property.  

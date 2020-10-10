@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/09/2020**  
+> Scrimba: The React Bootcamp (in progress)  
+> Went over render props and code reusability
+
 **10/08/2020**
 > FINISHED -- Scrimba: A Comprehensive Introduction to React (100%)  
 > STARTING -- Scrimba: The React Bootcamp  

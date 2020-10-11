@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/10/2020**  
+> Scrimba: The React Bootcamp (in progress)  
+> freeCodeCamp: Object Oriented Programming (JavaScript review)
+
 **10/09/2020**  
 > Scrimba: The React Bootcamp (in progress)  
 > Went over render props and code reusability

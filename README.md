@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/11/2020**  
+>  Progress Update: Currently 30% complete with The React Bootcamp  
+> The thing about focusing on one specific technology at a time is that you miss the others: I miss HTML, CSS (yes - even CSS), JS. I love React but I miss the others. If I wasn't working **full time** I'd dedicate time for those.
+
 **10/10/2020**  
 > Scrimba: The React Bootcamp (in progress)  
 > freeCodeCamp: Object Oriented Programming (JavaScript review)

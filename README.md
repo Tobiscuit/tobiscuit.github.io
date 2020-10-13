@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/12/2020**  
+> Currently reviewing more freeCodeCamp
+> Today was dedicated for review and mental health care
+
 **10/11/2020**  
 >  Progress Update: Currently 30% complete with The React Bootcamp  
 > The thing about focusing on one specific technology at a time is that you miss the others: I miss HTML, CSS (yes - even CSS), JS. I love React but I miss the others. If I wasn't working **full time** I'd dedicate time for those.

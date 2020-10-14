@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/13/2020**  
+> Aiming to finish module on Context API today  
+> freeCodeCamp: JavaScript (review)
+
 **10/12/2020**  
 > Currently reviewing more freeCodeCamp
 > Today was dedicated for review and mental health care

@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/14/2020**  
+> Scrimba: The React Bootcamp by Bob Ziroll (40%)  
+> freeCodeCamp: JavaScript (review)  
+
 **10/13/2020**  
 > Aiming to finish module on Context API today  
 > freeCodeCamp: JavaScript (review)

@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/17/2020**  
+> freeCodeCamp: JavaScript Algorithms & Data Structures (review)  
+> Scrimba: The React Bootcamp (review)
+
 **10/15/2020**  
 > freeCodeCamp: JavaScript Algorithms & Data Structures (review)  
 > Scrimba: The React Bootcamp (review)

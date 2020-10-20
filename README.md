@@ -4,6 +4,10 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/19/2020**  
+> freeCodeCamp: Regular Expressions (review)  
+> Scrimba: The React Bootcamp (in progress)
+
 **10/18/2020**  
 > freeCodeCamp: Object Oriented Programming  
 > Scrimba: The React Bootcamp

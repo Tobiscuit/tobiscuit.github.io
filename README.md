@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/23/2020**
+> Review
+
 **10/22/2020**  
 > The React Bootcamp (review)
 

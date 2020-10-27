@@ -4,6 +4,8 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**10/26/2020**
+
 **10/24/2020**
 > Review
 

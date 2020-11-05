@@ -4,6 +4,11 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+
+**11/04/2020**
+> Finished second section of _"Cracking The Coding Interview"_  
+> Reviewed The Little JavaScript Book (Chapters 1-3)
+
 **11/03/2020**
 > Finished one section of _"Cracking The Coding Interview"_  
 > Reviewed The Little JavaScript Book  

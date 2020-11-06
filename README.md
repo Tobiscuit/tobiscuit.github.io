@@ -4,6 +4,8 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**11/05/2020**  
+> Finished Variables and Strings of Scrimba: The JavaScript Bootcamp
 
 **11/04/2020**
 > Finished second section of _"Cracking The Coding Interview"_  

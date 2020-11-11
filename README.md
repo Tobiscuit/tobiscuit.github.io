@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**11/10/2020**  
+> Reviewed Context API
+
 **11/07/2020**
 > Reviewed React Hooks on Scrimba
 

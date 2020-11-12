@@ -4,6 +4,9 @@ Excited and looking forward to providing information solutions to companies thro
 
 ### Log
 
+**11/11/2020**
+> freeCodeCamp: ES6 review
+
 **11/10/2020**  
 > Reviewed Context API
 

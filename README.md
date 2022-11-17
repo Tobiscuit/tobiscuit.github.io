@@ -31,7 +31,7 @@ Excited and looking forward to providing information solutions to companies thro
 > Finished one section of _"Cracking The Coding Interview"_  
 > Reviewed The Little JavaScript Book  
 
-**11/02/2020**  
+~~**11/02/2020**  
 > Review  
 
 **10/31/2020**  
@@ -49,7 +49,7 @@ Excited and looking forward to providing information solutions to companies thro
 > Review
 
 **10/23/2020**
-> Review
+> Review~~ I thought I was being clever by documenting review and unfortunely, I am unable to remember what I studied during those days. I know for sure I got stuff done during this time because I was at an hour per day, at the very least. Sure, an hour per day may not be much, but I was reading **12 Rules For Life** during this time. If it's not technology or engineering I'm studying, it's human behavior. These two overlap quite a bit.
 
 **10/22/2020**  
 > The React Bootcamp (review)

@@ -5,7 +5,7 @@ Excited and looking forward to providing information solutions to companies thro
 ### Log
 
 **11/12/2020**
-> The focus has temporarily shifted from programming to mental health
+> The focus has temporarily shifted from programming to ~~mental health~~ self-help books
 > Finishing up ES6 review
 
 **11/11/2020**
